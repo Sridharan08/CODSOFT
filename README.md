@@ -48,5 +48,5 @@ The design is created using Figma and focuses on providing a clean, user-friendl
 ## Acknowledgements
 - Icons used are from MaterialUI.
 - Illustrations are sourced from Material.Ui.
-##Contact
+## Contact
 - For any queries or contributions, please contact sridhar872004@gmail.com
